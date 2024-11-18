@@ -1,0 +1,1 @@
+print ('geoinformatyka rządzi ! Ooooooooouuuyeee')
